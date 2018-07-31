@@ -1,5 +1,7 @@
 ## React Popper
 
+forked from https://github.com/FezVrasta/react-popperl and fixes #111
+
 [![Build Status](https://travis-ci.org/FezVrasta/react-popper.svg?branch=master)](https://travis-ci.org/FezVrasta/react-popper)
 [![npm version](https://img.shields.io/npm/v/react-popper.svg)](https://www.npmjs.com/package/react-popper)
 [![npm downloads](https://img.shields.io/npm/dm/react-popper.svg)](https://www.npmjs.com/package/react-popper)

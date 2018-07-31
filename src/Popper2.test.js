@@ -3,7 +3,7 @@ import React from 'react';
 import { mount } from 'enzyme';
 
 // Private API
-import { InnerPopper } from './Popper';
+import { InnerPopper } from './Popper2';
 
 const mountPopper = props =>
   mount(

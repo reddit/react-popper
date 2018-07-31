@@ -1,7 +1,7 @@
 // @flow
 
 // Public components
-import Popper, { placements } from './Popper';
+import Popper, { placements } from './Popper2';
 import Manager from './Manager';
 import Reference from './Reference';
 export { Popper, placements, Manager, Reference };
@@ -14,7 +14,7 @@ import type {
   PopperChildrenProps,
   PopperArrowProps,
   PopperProps,
-} from './Popper';
+} from './Popper2';
 export type {
   Placement,
   ManagerProps,
